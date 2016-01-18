@@ -1,4 +1,6 @@
 smartseat
 =========
 
-Smart seating charts
+Smart seating charts 
+
+Project is incomplete and indefinitely on hold.
